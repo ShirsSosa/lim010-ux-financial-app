@@ -1,5 +1,7 @@
 # BANQUI Aplicación financiera
 
+![enter image description here](https://lh3.googleusercontent.com/QMXg-wRyQw3fxNAN1kS2AOV0rCYVTD6gQC4LZ6559ILM9iOkyf1oj03JmjkytbNwvmC_krurGmSE)
+
 ## Descripción del proyecto
 
 El banco más importante del país, siguiendo las tendencias de otros países, está
@@ -28,9 +30,9 @@ Herramientas utilizadas: Google Drive, Optimal workshop, Loom, Figma, Maze, láp
 
 ## Objetivos 
 
-Descubrir cuáles son los puntos fuertes y/o falencias de la actual app de "Banqui".
-Descrubrir las necesidades del usuario potencial de "Banqui".
-Desarrollar el rediseño de la app "Banqui" de acuerdo a los problem statements del usuario.
+-Descubrir cuáles son los puntos fuertes y/o falencias de la actual app de "Banqui".
+-Descrubrir las necesidades del usuario potencial de "Banqui".
+-Desarrollar el rediseño de la app "Banqui" de acuerdo a los problem statements del usuario.
 
 ## Implementación
 
@@ -57,11 +59,18 @@ Hablamos con Michael, el product owner de BANQUI y después de una entrevista mu
 ![enter image description here](https://lh3.googleusercontent.com/WKskfsR6tOBeLEW0ewmssT2IkxeQyGCeVROrRXVssWUX9GNoN4bgpTWF7vNYU5RM7fRr86zi8K74) 
 
 
-
-
 ## Benchmarking
 
+Para conocer cómo se maneja el mercado y las soluciones que ya se están brindando, decidimos analizar a los principales bancos que operan en el país y a otras empresas que operan en el mercado internacional, que han sido reconocidas por ser pioneras en este sector:
 
+ - [Interbank](https://interbank.pe/)
+ - [BCP](https://www.viabcp.com/)
+ - [BBVA](https://www.bbva.pe/)
+ - [Wilobank](https://www.wilobank.com/)
+ - [Nequi](https://www.nequi.com.co/)
+ - [Revoult](https://www.revolut.com/)
+
+[Análisis de benchmarking](https://docs.google.com/spreadsheets/d/14Psi8edP4lKFz6vz6ax06_tbq67P72cUNb34luQ8inw/edit#gid=0) 
 
 
 ### Investigación
