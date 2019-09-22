@@ -100,11 +100,11 @@ del uso de apps financieras.
 
 ![enter image description here](https://lh3.googleusercontent.com/PzuC7dOOEeLSbWquX9l0Xe6JVF5ile1Br4A1HVNGzDkWJhZJAs5NyNZaxhI_-8Q7MTn_otQOlk2g)
 
-***Affinity map - Usuarios de BANQUI *** 
+***Affinity map - Usuarios de BANQUI*** 
 
 ![enter image description here](https://lh3.googleusercontent.com/u1j0kSU_Do3TZvO5MV_CzFBkpmxAwMGbiBHC0M9HWwcoZ3lbjKD_-9Zwb2VMbsBLnUdD-53pcBKl)
 
-***Affinity map - Usuarios de apps de la competencia *** 
+***Affinity map - Usuarios de apps de la competencia*** 
 
 ![enter image description here](https://lh3.googleusercontent.com/pgtharMqlul7HzMfxrbJ5M9-K7vk0wTlhWD1R5IVpO7jjVe9g_Gq3GoQja14JHVexrqEMpT5qhIt)
 
@@ -121,9 +121,26 @@ del uso de apps financieras.
  
 ## Problem Statements
 
+ - Patty necesita ahorrar porque quiere comprarse una cama nueva.
+ - Patty quiere registrar y saber a dónde se va su dinero porque muchas veces no llega a fin de mes.
+ - Piero necesita pagar de forma rápida y fácil para no tener que descuidar su negocio.
+ - Piero quiere viajar con su novia a México porque quiere celebrar su aniversario.
+ - Piero no quiere cargar efectivo por eso necesita pagar.
+
 
 
 ## How Might We? & What if?
+
+
+ - ¿HMW ayudar a generar un hábito de ahorro?
+ - ¿HMW que las operaciones sean más fáciles de hacer para el usuario?
+ - ¿HMW recordarle que tiene que pagar un servicio ?
+ - ¿HMW poder pagar más fácil sin usar efectivo?
+ - ¿HMW ayudar al usuario a registrar los ingresos y egresos de dinero que tiene?
+ - ¿HMW lleve un control de sus dinero y sus gastos?
+ - ¿WHAT IF nuestro usuario quisiera enviar dinero sin colocar el nro de cuenta?
+ - ¿WHAT IF nuestro usuario quisiera ver en qué cosas destina su dinero ?
+ - ¿WHAT IF si nuestro usuario pudiera ahorrar?
 
 
 # Ideación
