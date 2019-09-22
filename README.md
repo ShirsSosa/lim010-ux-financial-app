@@ -30,9 +30,9 @@ Herramientas utilizadas: Google Drive, Optimal workshop, Loom, Figma, Maze, láp
 
 ## Objetivos 
 
--Descubrir cuáles son los puntos fuertes y/o falencias de la actual app de "Banqui".
--Descrubrir las necesidades del usuario potencial de "Banqui".
--Desarrollar el rediseño de la app "Banqui" de acuerdo a los problem statements del usuario.
+- Descubrir cuáles son los puntos fuertes y/o falencias de la actual app de "Banqui".  
+- Descrubrir las necesidades del usuario potencial de "Banqui".  
+- Desarrollar el rediseño de la app "Banqui" de acuerdo a los problem statements del usuario.
 
 ## Implementación
 
@@ -50,6 +50,16 @@ En esta fase, investigamos sobre el mercado fintech, tuvimos una entrevista con 
 
 
 ## Investigación del mercado
+
+El mercado "FinTech" está creciendo año a año, en Latinoamérica México, Brasil y Colombia son los países que lidrean el sector.
+
+![enter image description here](https://lh3.googleusercontent.com/Kt_TRo6B9fjpeLKMlqSpXkIY-BSgzgNS2vMlC3iOIDaOWzA69mGD5TAn4bwE3Uu4fu9W-Qi3OY96)
+
+Los bancos tradicionales pierden terreno por varias razones, la primera, siempre han sido vistos como "los malos de la película", "nos cobran por todo" y "siempre quieren ganar más". Bajo esa premisa es fácil no tener fidelidad a la marca o a la empresa, segundo, el mercado FinTech está ocupando lugar entre los más ignorados por el sistema financiero, pymes, personas no bancarizadas y los jóvenes.
+
+En Perú, la situación no es distinta, ya existen 72 FinTech en el país, de las cuales el 30% se desarrolla en el sector de préstamos y el 25% en el sector de plataformas de pago.
+
+
 
 ## Entrevista con cliente 
 
@@ -75,10 +85,6 @@ Para conocer cómo se maneja el mercado y las soluciones que ya se están brinda
 
 ### Investigación
 
-
-
-
-
 En esta fase decidimos realizar entrevistas a usuarios potenciales y a usuarios de la competencia. Este punto consumió varias horas de trabajo, sin embargo, es bastante significativo por el conocimiento del usuario, la identificación de los pain points tanto en BANQUI como en apps de la competencia y conocer de forma directa sus necesidades.
 
 ![enter image description here](https://lh3.googleusercontent.com/BAVC2be9WIZAVv8GImSBYJIxXGH_6P1E-6SktMtuUncwQ_TbXz2aBzrt-c_AYVPgG9i_V63udm3y)
@@ -86,10 +92,30 @@ En esta fase decidimos realizar entrevistas a usuarios potenciales y a usuarios 
 
 ## Entrevista con usuarios
 
+En esta etapa, nuestro objetivo fue descubrir cuáles eran las principales operaciones qué realizaba el usuario, la frecuencia de uso de la app bancaria, las dificultades que tenía o que había tenido en su uso, su comportamiento frente al ahorro y control de gastos y conocer la predisposición a usar un banco digital.
 
+**Hallazgos**
 
+ - Eligieron su banco porque su círculo cercano también tenían cuentas en el mismo banco.
+ - Usan la app a inicios del mes, quincena o fin de mes.
+ - Las transacciones más frecuentes son: transferencias y pago de servicio de celular.
+
+[Guía de entrevistas a usuarios](https://docs.google.com/document/d/181PWRJilgJSDOP6FVlrQ5dr-w56eFYqKwGlnpcV-5Ok/edit)
 
 ## Testeo de BANQUI
+
+Probamos BANQUI con usuarios potenciales, queríamos identificar los puntos positivos y los pain points de la app. Hicimos un test presencial y online. En ambos casos determinamos una lista de tareas y evidenciamos lo siguiente:
+
+![enter image description here](https://lh3.googleusercontent.com/BTmTn_DshfiZJe52S4UOC6tpUXnb_Hk2Hxcc_4W0F_c65eOdYzYAbf0tL6XPiyuw1MEBL1rjmktb)   ![enter image description here](https://lh3.googleusercontent.com/0igmPJjC2iwSGGNj6FTD21xVdNouiTDUAuPsRWI9RpSZhGSCJcDRoMqm8Qzg0falTz7NI0Kp1HKG)
+
+![enter image description here](https://lh3.googleusercontent.com/JFJl0S44WuoNr3VnqiZYGkzZT-r3wVDFOm1if_pM-OZ_62udijE3FC2YmOkLvDTLMQGyrv3ZJPoG)
+
+
+**Hallazgos**
+
+ - Es difícil ubicar el menú principal.
+ - No entendieron el significado de "Gastos" y "Movimientos".
+ - Dificultad para ver los movimientos de la tarjeta.
 
 
 
