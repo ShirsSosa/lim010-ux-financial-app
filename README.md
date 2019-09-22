@@ -22,10 +22,10 @@ donde le han asignado este proyecto a ti y otra compañera de Laboratoria.
 
 ## Detalles del proyecto
 
-Tiempo: 2 sprints
-Plataforma: Aplicación Móvil en IOS.
-Equipo: Nora Zuñiga y Shirley Sosa.
-Herramientas utilizadas: Google Drive, Optimal workshop, Loom, Figma, Maze, lápiz, papel y post-it.
+ - Tiempo: 2 sprints 
+ - Plataforma: Aplicación Móvil en IOS. 
+ - Equipo: Nora Zuñiga y Shirley Sosa. 
+ - Herramientas utilizadas: Google Drive, Optimal Workshop, Loom, Figma, Maze, lápiz, papel y post-it.
 
 
 ## Objetivos 
@@ -186,6 +186,13 @@ Para nuestro MVP habíamos planteado las siguientes soluciones:
 - [ ] Función de controlador de gastos, pudiendo registrar ingresos y egresos.
 - [ ] Función de balance para visualizar fácilmente en qué gasta el usuario su dinero.
 - [ ] Función de elegir un guardián del ahorro, dándole una clave de seguridad a una persona asignada para que retirar tu dinero no sea tan fácil, en el caso de que sea un ahorro. 
+
+
+
+
+
+
+
 
 Con estas 3 premisas desarrollamos el prototipo rápidamente y salimos a testear, usando la técnica de test de guerrilla.
 
