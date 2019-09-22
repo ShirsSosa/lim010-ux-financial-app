@@ -1,4 +1,4 @@
-# Aplicación financiera
+# BANQUI Aplicación financiera
 
 ## Preámbulo
 
