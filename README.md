@@ -66,10 +66,13 @@ Hablamos con Michael, el product owner de BANQUI y después de una entrevista mu
 
 ### Investigación
 
-En esta fase decidimos realizar entre
 
 
 
+
+En esta fase decidimos realizar entrevistas a usuarios potenciales y a usuarios de la competencia. Este punto consumió varias horas de trabajo, sin embargo, es bastante significativo por el conocimiento del usuario, la identificación de los pain points tanto en BANQUI como en apps de la competencia y conocer de forma directa sus necesidades.
+
+![enter image description here](https://lh3.googleusercontent.com/BAVC2be9WIZAVv8GImSBYJIxXGH_6P1E-6SktMtuUncwQ_TbXz2aBzrt-c_AYVPgG9i_V63udm3y)
 
 
 ## Entrevista con usuarios
@@ -90,6 +93,7 @@ En esta fase decidimos realizar entre
 
 # Sintésis y definición
 
+Con el resultado de nuestra investigación, pudimos desarrollar los affinity maps de cada grupo investigado.
 
 ![enter image description here](https://lh3.googleusercontent.com/DpUSfXYuLhtwiBYMWm4RgZKK8z4PJtI1frvm2-cGkLPmoo_9Qf_LlRiyvBa1DQsEBlm67HfDycFb)
 
@@ -136,37 +140,4 @@ Recuerda revisar la rúbrica para ver la descripción detallada de cada habilida
 y cada nivel. A continuación presentamos los niveles esperados de cada habilidad
 que deberías alcanzar al finalizar este proyecto:
 
-### Habilidades Blandas
 
-| Habilidad                    | Nivel esperado |
-|------------------------------|----------------|
-| **Autogestión**                               |
-| Planificación y organización | 4              |
-| Autoaprendizaje              | 4              |
-| Presentaciones               | 4              |
-| Adaptabilidad                | 4              |
-| Solución de problemas        | 4              |
-| **Relaciones interpersonales**                |
-| Trabajo en equipo            | 4              |
-| Responsabilidad              | 4              |
-| Dar y recibir feedback       | 4              |
-| Comunicación eficaz          | 4              |
-
-### UX
-
-| Habilidad                      | Nivel esperado |
-|--------------------------------|----------------|
-| **Research**                                    |
-| User centricity                | 4              |
-| Entrevistas                    | 3              |
-| Testing                        | 3              |
-| Planeamiento y ejecución       | 3              |
-| Síntesis de resultados         | 3              |
-| **Interaction design**                          |
-| Diseño de interacción          | 3              |
-| Arquitectura de la información | 3              |
-| Prototyping                    | 3              |
-| **Visual design**                               |
-| Visual Design                  | 3              |
-| **Business mindset**                            |
-| Business mindset               | 3              |
