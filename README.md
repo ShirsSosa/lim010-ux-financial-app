@@ -117,15 +117,6 @@ Probamos BANQUI con usuarios potenciales, queríamos identificar los puntos posi
  - No entendieron el significado de "Gastos" y "Movimientos".
  - Dificultad para ver los movimientos de la tarjeta.
 
-
-
-
-## Testeo app de la competencia 
-
-
-
-
-
 # Sintésis y definición
 
 Con el resultado de nuestra investigación, pudimos desarrollar los affinity maps de cada grupo investigado y hallar una serie de topics 
@@ -146,11 +137,15 @@ del uso de apps financieras.
 
 ## User persona
 
+En este caso decidimos redefinir los user personas porque identificamos algunas diferencias, por ejemplo, en las preocupaciones y la edad. 
+
 ![enter image description here](https://lh3.googleusercontent.com/iwN6Iyu5MpPbcXhmIJZlZYIeJGxqcVitrhSMPxEsfW-TIttdfqW8coqdCDJrPAAsqGk5QEQpCg7P)
 
 ![enter image description here](https://lh3.googleusercontent.com/YKv6YnVQYqnp0cUgKJ3kCoj-q5xgLUGNj5ihWDqGUerB6ioqiXpegZjc5Q7bLAaYQXZ8JhrWBAAT)
 
 ## Customer Journey map 
+
+En el test de BANQUI, definimos una tarea y en base a ella identificamos las mayores dolencias que tiene el usuario al momento de usar la app.
 
 ![enter image description here](https://lh3.googleusercontent.com/ezawAk1WuRojV-ovZIKFWXZoBr8AeLoHEuDv7_X0te9u_7xgw3Hk2Xw6h3dKNOBkbsM-50ldNR9I)
  
@@ -184,7 +179,25 @@ del uso de apps financieras.
 
 # Prototipado & User testing
 
+Con toda la información recabada, decidimos hacer un prototipo de baja fidelidad para probar ciertas hipótesis.
 
+Para nuestro MVP habíamos planteado las siguientes soluciones:
+
+- [ ] Función de controlador de gastos, pudiendo registrar ingresos y egresos.
+- [ ] Función de balance para visualizar fácilmente en qué gasta el usuario su dinero.
+- [ ] Función de elegir un guardián del ahorro, dándole una clave de seguridad a una persona asignada para que retirar tu dinero no sea tan fácil, en el caso de que sea un ahorro. 
+
+Con estas 3 premisas desarrollamos el prototipo rápidamente y salimos a testear, usando la técnica de test de guerrilla.
+
+
+
+
+
+**Hallazgos**
+
+-  No entendieron la función de control de gastos. 
+-   No asociaban el control de gastos con el ícono.
+-   Les parecía muy interesante la opción de un guardián del ahorro.
 
 
 ## Presentación final
@@ -192,12 +205,5 @@ del uso de apps financieras.
 
 
 ## Enlaces 
-
-
-## Evaluación
-
-Recuerda revisar la rúbrica para ver la descripción detallada de cada habilidad
-y cada nivel. A continuación presentamos los niveles esperados de cada habilidad
-que deberías alcanzar al finalizar este proyecto:
 
 
