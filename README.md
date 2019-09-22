@@ -15,7 +15,7 @@ donde le han asignado este proyecto a ti y otra compañera de Laboratoria.
 
 ## Introducción
 
-Somos REX CONSULTING S.A.C conformada por Nora Zuñiga ( UX Designer) y Shirley Sosa (UX Designer) 
+Somos REX CONSULTING S.A.C conformada por Nora Zuñiga ( UX Designer) y Shirley Sosa (UX Designer)
 
 
 
