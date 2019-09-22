@@ -34,24 +34,101 @@ Desarrollar el rediseño de la app "Banqui" de acuerdo a los problem statements 
 
 ## Implementación
 
-Para realizar la consultoría hemos llevado a cabo las siguientes tareas:
+Para realizar la consultoría hemos decidido utilizar las siguientes actividades que nos ayudarán a crear nuestra propuesta:
+
+![enter image description here](https://lh3.googleusercontent.com/Vrb-CXIqZUsjQ09QD492rjFVMva0qvQzYsnfISzEnLxDqJtx1lLDPaXj4OpzY6Bqj-rBZ0eljJXM)
 
 
 ## Flujo de trabajo
 
 
-# Descubrimiento 
+# Descubrimiento e Investigación
 
-En esta fase, investigamos sobre el mercado fintech, tuvimos una entrevista con el product owner, pusimos a prueba la app "BANQUI" haciendo un testeo con la herramienta Maze, también testeo a usuarios que usaban los productos de la competencia y benchmarking de empresas locales y del exterior para conocer las principales funciones y enfoque del negocio,  así pudimos conocer el alcance y objetivos del negocio, los pain poitns que tenían los usuarios de "Banqui" y de otras empresas y sobretodo redefinir al user persona y trabajar sobre 
-
-![enter image description here](https://lh3.googleusercontent.com/viPO31DnBr0WX_WSioYXk0FOkvx8gjK8r4gJ2EJJOI9Ui5zOhjxiAisswkOz_syaZfTH338cJCJ9 "adfa")
+En esta fase, investigamos sobre el mercado fintech, tuvimos una entrevista con el product owner, pusimos a prueba la app "BANQUI" haciendo un testeo con la herramienta Maze, también testeo a usuarios que usaban los productos de la competencia y benchmarking de empresas locales y del exterior para conocer las principales funciones y enfoque del negocio,  así pudimos conocer el alcance y objetivos del negocio, los pain poitns que tenían los usuarios de "Banqui" y de otras empresas y sobretodo redefinir al user persona y trabajar sobre los resultados de la investigación para replantear las soluciones y llevarlo al rediseño de la app.
 
 
+## Investigación del mercado
+
+## Entrevista con cliente 
+
+Hablamos con Michael, el product owner de BANQUI y después de una entrevista muy enriquecedora pudimos resaltar 5 puntos en los que trabajar y que están alineados a los objetivos del negocio y del producto.
+
+
+![enter image description here](https://lh3.googleusercontent.com/WKskfsR6tOBeLEW0ewmssT2IkxeQyGCeVROrRXVssWUX9GNoN4bgpTWF7vNYU5RM7fRr86zi8K74) 
 
 
 
 
+## Benchmarking
+
+
+
+
+### Investigación
+
+En esta fase decidimos realizar entre
+
+
+
+
+
+## Entrevista con usuarios
+
+
+
+
+## Testeo de BANQUI
+
+
+
+
+## Testeo app de la competencia 
+
+
+
+
+
+# Sintésis y definición
+
+
+![enter image description here](https://lh3.googleusercontent.com/DpUSfXYuLhtwiBYMWm4RgZKK8z4PJtI1frvm2-cGkLPmoo_9Qf_LlRiyvBa1DQsEBlm67HfDycFb)
+
+
+
+
+
+
+
+## User persona
+
+![enter image description here](https://lh3.googleusercontent.com/iwN6Iyu5MpPbcXhmIJZlZYIeJGxqcVitrhSMPxEsfW-TIttdfqW8coqdCDJrPAAsqGk5QEQpCg7P)
+
+![enter image description here](https://lh3.googleusercontent.com/YKv6YnVQYqnp0cUgKJ3kCoj-q5xgLUGNj5ihWDqGUerB6ioqiXpegZjc5Q7bLAaYQXZ8JhrWBAAT)
+
+## Customer Journey map 
+
+![enter image description here](https://lh3.googleusercontent.com/ezawAk1WuRojV-ovZIKFWXZoBr8AeLoHEuDv7_X0te9u_7xgw3Hk2Xw6h3dKNOBkbsM-50ldNR9I)
  
+## Problem Statements
+
+## How Might We? & What if?
+
+
+# Ideación
+
+
+
+# Prototipado & User testing
+
+
+
+
+## Presentación final
+
+
+
+## Enlaces 
+
 
 ## Evaluación
 
