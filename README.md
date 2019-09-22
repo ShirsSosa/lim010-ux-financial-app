@@ -93,14 +93,20 @@ En esta fase decidimos realizar entrevistas a usuarios potenciales y a usuarios 
 
 # Sintésis y definición
 
-Con el resultado de nuestra investigación, pudimos desarrollar los affinity maps de cada grupo investigado.
+Con el resultado de nuestra investigación, pudimos desarrollar los affinity maps de cada grupo investigado y hallar una serie de topics 
+del uso de apps financieras.
 
-![enter image description here](https://lh3.googleusercontent.com/DpUSfXYuLhtwiBYMWm4RgZKK8z4PJtI1frvm2-cGkLPmoo_9Qf_LlRiyvBa1DQsEBlm67HfDycFb)
+***Affinity map - Entrevistas a usuarios*** 
 
+![enter image description here](https://lh3.googleusercontent.com/PzuC7dOOEeLSbWquX9l0Xe6JVF5ile1Br4A1HVNGzDkWJhZJAs5NyNZaxhI_-8Q7MTn_otQOlk2g)
 
+***Affinity map - Usuarios de BANQUI *** 
 
+![enter image description here](https://lh3.googleusercontent.com/u1j0kSU_Do3TZvO5MV_CzFBkpmxAwMGbiBHC0M9HWwcoZ3lbjKD_-9Zwb2VMbsBLnUdD-53pcBKl)
 
+***Affinity map - Usuarios de apps de la competencia *** 
 
+![enter image description here](https://lh3.googleusercontent.com/pgtharMqlul7HzMfxrbJ5M9-K7vk0wTlhWD1R5IVpO7jjVe9g_Gq3GoQja14JHVexrqEMpT5qhIt)
 
 
 ## User persona
@@ -114,6 +120,8 @@ Con el resultado de nuestra investigación, pudimos desarrollar los affinity map
 ![enter image description here](https://lh3.googleusercontent.com/ezawAk1WuRojV-ovZIKFWXZoBr8AeLoHEuDv7_X0te9u_7xgw3Hk2Xw6h3dKNOBkbsM-50ldNR9I)
  
 ## Problem Statements
+
+
 
 ## How Might We? & What if?
 
