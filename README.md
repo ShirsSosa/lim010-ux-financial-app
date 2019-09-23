@@ -180,7 +180,8 @@ Money Lover lo que nos da es una vista entendible de los gastos que tenemos seg�
 
 # Prototipado & User testing
 
-Con toda la información recabada, decidimos hacer un prototipo de baja fidelidad para probar ciertas hipótesis.
+Con los resultados de nuestra investigación decidimos hacer un prototipo de baja fidelidad para probar las soluciones planteadas, hicimos un testing de guerrilla y luego volvimos a analizar los resultados, revisar referencias y plantear algunas mejoras en el diseño.
+
 
 Para nuestro MVP habíamos planteado las siguientes soluciones:
 
