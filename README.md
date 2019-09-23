@@ -1,6 +1,6 @@
 # BANQUI - Aplicación financiera
 
-![}](https://lh3.googleusercontent.com/KxC_yEnT8_dXBWvTgE893wPSwdivYDvJrplWMTDXKRoJEv63L6JCfFxQxHRj-IoBwLt77wjnjIvC)
+![enter image description here](https://lh3.googleusercontent.com/LLgv3E6ZTBKTFmlaTnX2qsj_bgVliv6KYVFBEf0IJXKkIfw0R8kTWNiMXjJBLjwSZIz3l-rI6n44)
 
 
 ## Descripción del proyecto
@@ -36,6 +36,8 @@ Para realizar la consultoría hemos decidido utilizar las siguientes actividades
 
 ![enter image description here](https://lh3.googleusercontent.com/Vrb-CXIqZUsjQ09QD492rjFVMva0qvQzYsnfISzEnLxDqJtx1lLDPaXj4OpzY6Bqj-rBZ0eljJXM)
 
+[Tabla de Implementación](https://docs.google.com/document/d/1VDxM8xexieDIB0kAvaHboXN5iothaxQq4na9J0QG_3E/edit)
+
 # Descubrimiento e Investigación
 
 En esta fase, investigamos sobre el mercado fintech, tuvimos una entrevista con el product owner, pusimos a prueba la app "BANQUI" haciendo un testeo con la herramienta Maze, también testeo a usuarios que usaban los productos de la competencia y benchmarking de empresas locales y del exterior para conocer las principales funciones, enfoque del negocio y sobretodo los pain poitns que tenían los usuarios de "Banqui" y de otras empresas. 
@@ -57,16 +59,18 @@ Hablamos con Michael, el product owner de BANQUI y después de una entrevista mu
 
 ![enter image description here](https://lh3.googleusercontent.com/WKskfsR6tOBeLEW0ewmssT2IkxeQyGCeVROrRXVssWUX9GNoN4bgpTWF7vNYU5RM7fRr86zi8K74) 
 
+[Guía de Entrevista](https://docs.google.com/document/d/1OPvuxcP-GmGct4EAtR_C7YPUz1fegIcrq5FgmXCXdMk/edit)
+
 
 ## Benchmarking
 
 Para conocer cómo se maneja el mercado y las soluciones que ya se están brindando, decidimos analizar a los principales bancos que operan en el país y a otras empresas que operan en el mercado internacional, que han sido reconocidas por ser pioneras en este sector:
 
+ - [Nequi](https://www.nequi.com.co/)
  - [Interbank](https://interbank.pe/)
  - [BCP](https://www.viabcp.com/)
  - [BBVA](https://www.bbva.pe/)
  - [Wilobank](https://www.wilobank.com/)
- - [Nequi](https://www.nequi.com.co/)
  - [Revoult](https://www.revolut.com/)
 
 [Análisis de benchmarking](https://docs.google.com/spreadsheets/d/14Psi8edP4lKFz6vz6ax06_tbq67P72cUNb34luQ8inw/edit#gid=0) 
@@ -103,7 +107,7 @@ Probamos BANQUI con usuarios potenciales, queríamos identificar los puntos posi
 **Hallazgos**
 
  > - Es difícil ubicar el menú principal.
- > - No entendieron el significado de "Gastos" y "Movimientos".
+ > - No entendieron el significado de "Gastos".
  > - Dificultad para ver los movimientos de la tarjeta.
 
 # Sintésis y definición
@@ -124,6 +128,8 @@ del uso de apps financieras.
 ![enter image description here](https://lh3.googleusercontent.com/pgtharMqlul7HzMfxrbJ5M9-K7vk0wTlhWD1R5IVpO7jjVe9g_Gq3GoQja14JHVexrqEMpT5qhIt)
 
 
+ - [Affinity map](https://miro.com/app/board/o9J_kwufubM=/)
+
 ## User persona
 
 En este caso decidimos redefinir los user personas porque identificamos algunas diferencias, por ejemplo, en las preocupaciones y la edad. 
@@ -140,6 +146,8 @@ En el test de BANQUI, definimos una tarea y en base a ella identificamos las may
  
 ## Problem Statements
 
+Ahora que ya conocemos al nuestro usuario (User Persona) y sabemos sus necesidades, identificaremos los problemas para buscar los posibles soluciones.
+
  - Patty necesita ahorrar porque quiere comprarse una cama nueva.
  - Patty quiere registrar y saber a dónde se va su dinero porque muchas veces no llega a fin de mes.
  - Piero necesita pagar de forma rápida y fácil para no tener que descuidar su negocio.
@@ -150,6 +158,7 @@ En el test de BANQUI, definimos una tarea y en base a ella identificamos las may
 
 ## How Might We? & What if?
 
+Ya con nuestros Problem Statements definidos se procedió con los HMW y What if.
 
  - ¿HMW ayudar a generar un hábito de ahorro?
  - ¿HMW que las operaciones sean más fáciles de hacer para el usuario?
@@ -252,7 +261,7 @@ En la cual pudimos evidenciar la gran dificultad para asociar los ítems con res
 
 ## Prototipo de Alta Fidelidad 
 
-![enter image description here](https://lh3.googleusercontent.com/LLgv3E6ZTBKTFmlaTnX2qsj_bgVliv6KYVFBEf0IJXKkIfw0R8kTWNiMXjJBLjwSZIz3l-rI6n44)
+![}](https://lh3.googleusercontent.com/KxC_yEnT8_dXBWvTgE893wPSwdivYDvJrplWMTDXKRoJEv63L6JCfFxQxHRj-IoBwLt77wjnjIvC)
 
 -  [Prototipo de Alta Fidelidad Navegable](https://marvelapp.com/79e2651/screen/61632557)
 
@@ -262,9 +271,9 @@ En la cual pudimos evidenciar la gran dificultad para asociar los ítems con res
 ## Enlaces :pushpin:
 
  - [Carpeta en Google Drive](https://drive.google.com/drive/u/0/folders/1TQf-Dqj6wkiGaTsx4_02PMRtJpgW97mA)
- - [Affinity maps](https://miro.com/app/board/o9J_kwufubM=/)
  - [Prototipo de Alta Fidelidad Diseño](https://www.figma.com/file/DVGGK6p2PHOy9tPxkLJSOL/BANQUI-Prototipo-Alta-Fidelidad?node-id=31:4738)
  - [Prototipo de Alta Fidelidad Navegable](https://marvelapp.com/79e2651/screen/61632557)
+ - [Video explicativo en Loom](https://www.loom.com/share/feadb768f4524511aaeadd92f5991cdb)
  
  ## Hacker edition :sparkles:
  
