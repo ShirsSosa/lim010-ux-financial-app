@@ -34,7 +34,7 @@ donde le han asignado este proyecto a ti y otra compañera de Laboratoria.
 
 Para realizar la consultoría hemos decidido utilizar las siguientes actividades que nos ayudarán a crear nuestra propuesta:
 
-![enter image description here](https://lh3.googleusercontent.com/Vrb-CXIqZUsjQ09QD492rjFVMva0qvQzYsnfISzEnLxDqJtx1lLDPaXj4OpzY6Bqj-rBZ0eljJXM)
+![image](https://user-images.githubusercontent.com/50145549/65446291-a8cb4600-ddf9-11e9-9fe9-46effc1f55aa.png)
 
 [Tabla de Implementación](https://docs.google.com/document/d/1VDxM8xexieDIB0kAvaHboXN5iothaxQq4na9J0QG_3E/edit)
 
