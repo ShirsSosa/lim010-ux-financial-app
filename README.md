@@ -1,6 +1,8 @@
-# BANQUI Aplicación financiera
+# BANQUI - Aplicación financiera
 
-![enter image description here](https://lh3.googleusercontent.com/QMXg-wRyQw3fxNAN1kS2AOV0rCYVTD6gQC4LZ6559ILM9iOkyf1oj03JmjkytbNwvmC_krurGmSE)
+
+
+
 
 ## Descripción del proyecto
 
@@ -37,6 +39,8 @@ Para realizar la consultoría hemos decidido utilizar las siguientes actividades
 
 
 ## Flujo de trabajo
+
+
 
 
 
@@ -259,7 +263,7 @@ En la cual pudimos evidenciar la gran dificultad para asociar los ítems con res
 ## Prototipo de Alta Fidelidad 
 
 
-
+![enter image description here](https://lh3.googleusercontent.com/QMXg-wRyQw3fxNAN1kS2AOV0rCYVTD6gQC4LZ6559ILM9iOkyf1oj03JmjkytbNwvmC_krurGmSE)
 
 
 
