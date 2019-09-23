@@ -188,23 +188,61 @@ Para nuestro MVP habíamos planteado las siguientes soluciones:
 - [ ] Función de elegir un guardián del ahorro, dándole una clave de seguridad a una persona asignada para que retirar tu dinero no sea tan fácil, en el caso de que sea un ahorro. 
 
 
+Con estas premisas desarrollamos el prototipo rápidamente y salimos a testear, usando la técnica de test de guerrilla.
+
+**Prototipo de baja fidelidad**
 
 
+![enter image description here](https://lh3.googleusercontent.com/VHhyrHx_LjQA7qsKZJy4A2jDqmPZqO7ZwI1IFRMfHuEqftddsq3qN2dZnLyORJD9NV3PStuCv3ga)
 
+Test de Guerrilla en Barranco
 
-
-
-Con estas 3 premisas desarrollamos el prototipo rápidamente y salimos a testear, usando la técnica de test de guerrilla.
-
-
-
+![enter image description here](https://lh3.googleusercontent.com/neVAr-7pdFh628OdexIEPAQfDqWwl_ZXuS3SDYCdrYrCLNGQqvxeGGArNxSWwpYG-fFbm2KXCLZ3)    ![ ](https://lh3.googleusercontent.com/3Wpoad3hha_4_5cXp2uqtIccf8N8F6RQhiqTIs5VY15wDDd8ViyJ0aE2NKvCb6wBBXzrbHDm2iOc)
 
 
 **Hallazgos**
 
 -  No entendieron la función de control de gastos. 
--   No asociaban el control de gastos con el ícono.
--   Les parecía muy interesante la opción de un guardián del ahorro.
+-  No asociaban el control de gastos con el ícono.
+-  Les parecía muy interesante la opción de un guardián del ahorro.
+
+En este sentido, decidimos hacer nuevamente benchmarking y ver cómo habían solucionado empresas del sector, sobretodo enfocándonos en los principales problemas: vista de los ahorros y vista de los gastos. 
+
+Por ejemplo en el caso de gastos pudimos analizar las vistas de Revoul, Albo y Ualá.
+
+![enter image description here](https://lh3.googleusercontent.com/BkT3x4I_EXLurOXhuyFeAYD_7w_mXZV3TOt5dwwOrukCFeLnDG4H9iDCukM9Jhmof6lf9n7wDpnD)
+
+También trabajamos un test de asociación de los íconos para redefinir el menú y que nuestros usuarios tengan la menor dificultad para asociar cada elemento con su función.
+
+
+En base a este análisis decidimos hacer mejoras en el diseño enfocándonos en: facilidad, personalización e intuitibidad.
+
+ 
+ 
+ **Testing de Prototipo de Alta Fidelidad**
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+**Hallazgos**
+
+
+
+
+
+
+
+## Prototipo de Alta Fidelidad 
+
+
+
+
+
+
 
 
 ## Presentación final
