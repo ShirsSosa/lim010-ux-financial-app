@@ -199,9 +199,9 @@ Test de Guerrilla en Barranco
 
 **Hallazgos**
 
--  No entendieron la función de control de gastos. 
--  No asociaban el control de gastos con el ícono.
--  Les parecía muy interesante la opción de un guardián del ahorro.
+> -  No entendieron la función de control de gastos. 
+> -  No asociaban el control de gastos con el ícono.
+> -  Les parecía muy interesante la opción de un guardián del ahorro.
 
 En este sentido, decidimos hacer nuevamente benchmarking y ver cómo habían solucionado empresas del sector, sobretodo enfocándonos en los principales problemas: vista de los ahorros y vista de los gastos. 
 
@@ -232,10 +232,10 @@ En base a este análisis decidimos hacer mejoras en el diseño enfocándonos en 
  
 **Hallazgos**
 
- - Dificultad para ver el saldo.
- - No entendieron el concepto de guardián del ahorro, pero cuando les explicabas, les parecía interesante.
- - Mayor entendimiento del control de gastos y su gráfico, les pareció interesante para tener mayor control de su dinero.
- - Sobre la sección de ahorros, les pareció importante para lograr sus objetivos.
+ > - Dificultad para ver el saldo.
+ > - No entendieron el concepto de guardián del ahorro, pero cuando les explicabas, les parecía interesante.
+ > - Mayor entendimiento del control de gastos y su gráfico, les pareció interesante para tener mayor control de su dinero.
+ > - Sobre la sección de ahorros, les pareció importante para lograr sus objetivos.
 
 ## Prototipo de Alta Fidelidad 
 
