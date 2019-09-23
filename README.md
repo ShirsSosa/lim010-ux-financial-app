@@ -251,7 +251,8 @@ En base a este análisis decidimos hacer mejoras en el diseño enfocándonos en:
 
 ## Enlaces :pushpin:
 
-[Carpeta en Google Drive](https://drive.google.com/drive/u/0/folders/1TQf-Dqj6wkiGaTsx4_02PMRtJpgW97mA)
-[Prototipo de Alta Fidelidad Diseño](https://www.figma.com/file/DVGGK6p2PHOy9tPxkLJSOL/BANQUI-Prototipo-Alta-Fidelidad?node-id=31:4738)
-[Prototipo de Alta Fidelidad Navegable](https://marvelapp.com/79e2651/screen/61632557)
+ - [Carpeta en Google Drive](https://drive.google.com/drive/u/0/folders/1TQf-Dqj6wkiGaTsx4_02PMRtJpgW97mA)
+ -  [Prototipo de Alta Fidelidad Diseño](https://www.figma.com/file/DVGGK6p2PHOy9tPxkLJSOL/BANQUI-Prototipo-Alta-Fidelidad?node-id=31:4738)
+ -  [Prototipo de Alta Fidelidad Navegable](https://marvelapp.com/79e2651/screen/61632557)
+
 
