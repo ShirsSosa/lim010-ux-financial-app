@@ -15,11 +15,6 @@ Para poder ayudarlos a entender mejor las necesidades de sus clientes y crear
 el mejor banco digital del país han decidido contratar a una consultora de UX,
 donde le han asignado este proyecto a ti y otra compañera de Laboratoria.
 
-## Introducción
-
-
-
-
 ## Detalles del proyecto
 
  - Tiempo: 2 sprints 
@@ -42,6 +37,7 @@ Para realizar la consultoría hemos decidido utilizar las siguientes actividades
 
 
 ## Flujo de trabajo
+
 
 
 # Descubrimiento e Investigación
@@ -83,7 +79,7 @@ Para conocer cómo se maneja el mercado y las soluciones que ya se están brinda
 [Análisis de benchmarking](https://docs.google.com/spreadsheets/d/14Psi8edP4lKFz6vz6ax06_tbq67P72cUNb34luQ8inw/edit#gid=0) 
 
 
-### Investigación
+## Investigación
 
 En esta fase decidimos realizar entrevistas a usuarios potenciales y a usuarios de la competencia. Este punto consumió varias horas de trabajo, sin embargo, es bastante significativo por el conocimiento del usuario, la identificación de los pain points tanto en BANQUI como en apps de la competencia y conocer de forma directa sus necesidades.
 
@@ -96,9 +92,9 @@ En esta etapa, nuestro objetivo fue descubrir cuáles eran las principales opera
 
 **Hallazgos**
 
- - Eligieron su banco porque su círculo cercano también tenían cuentas en el mismo banco.
- - Usan la app a inicios del mes, quincena o fin de mes.
- - Las transacciones más frecuentes son: transferencias y pago de servicio de celular.
+ > - Eligieron su banco porque su círculo cercano también tenían cuentas en el mismo banco.
+ > - Usan la app a inicios del mes, quincena o fin de mes.
+ > - Las transacciones más frecuentes son: transferencias y pago de servicio de celular.
 
 [Guía de entrevistas a usuarios](https://docs.google.com/document/d/181PWRJilgJSDOP6FVlrQ5dr-w56eFYqKwGlnpcV-5Ok/edit)
 
@@ -113,9 +109,9 @@ Probamos BANQUI con usuarios potenciales, queríamos identificar los puntos posi
 
 **Hallazgos**
 
- - Es difícil ubicar el menú principal.
- - No entendieron el significado de "Gastos" y "Movimientos".
- - Dificultad para ver los movimientos de la tarjeta.
+ > - Es difícil ubicar el menú principal.
+ > - No entendieron el significado de "Gastos" y "Movimientos".
+ > - Dificultad para ver los movimientos de la tarjeta.
 
 # Sintésis y definición
 
@@ -191,7 +187,7 @@ Para nuestro MVP habíamos planteado las siguientes soluciones:
 
 Con estas premisas desarrollamos el prototipo rápidamente y salimos a testear, usando la técnica de test de guerrilla.
 
-**Prototipo de baja fidelidad**
+## Prototipo de baja fidelidad
 
 
 ![enter image description here](https://lh3.googleusercontent.com/VHhyrHx_LjQA7qsKZJy4A2jDqmPZqO7ZwI1IFRMfHuEqftddsq3qN2dZnLyORJD9NV3PStuCv3ga)
