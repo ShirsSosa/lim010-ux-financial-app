@@ -1,7 +1,6 @@
 # BANQUI - Aplicación financiera
 
-
-
+![}](https://lh3.googleusercontent.com/KxC_yEnT8_dXBWvTgE893wPSwdivYDvJrplWMTDXKRoJEv63L6JCfFxQxHRj-IoBwLt77wjnjIvC)
 
 
 ## Descripción del proyecto
@@ -253,10 +252,9 @@ En la cual pudimos evidenciar la gran dificultad para asociar los ítems con res
 
 ## Prototipo de Alta Fidelidad 
 
+![enter image description here](https://lh3.googleusercontent.com/LLgv3E6ZTBKTFmlaTnX2qsj_bgVliv6KYVFBEf0IJXKkIfw0R8kTWNiMXjJBLjwSZIz3l-rI6n44)
 
-![enter image description here](https://lh3.googleusercontent.com/QMXg-wRyQw3fxNAN1kS2AOV0rCYVTD6gQC4LZ6559ILM9iOkyf1oj03JmjkytbNwvmC_krurGmSE)
-
-
+-  [Prototipo de Alta Fidelidad Navegable](https://marvelapp.com/79e2651/screen/61632557)
 
 
 
