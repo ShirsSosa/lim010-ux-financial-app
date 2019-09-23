@@ -37,17 +37,9 @@ Para realizar la consultoría hemos decidido utilizar las siguientes actividades
 
 ![enter image description here](https://lh3.googleusercontent.com/Vrb-CXIqZUsjQ09QD492rjFVMva0qvQzYsnfISzEnLxDqJtx1lLDPaXj4OpzY6Bqj-rBZ0eljJXM)
 
-
-## Flujo de trabajo
-
-
-
-
-
 # Descubrimiento e Investigación
 
-En esta fase, investigamos sobre el mercado fintech, tuvimos una entrevista con el product owner, pusimos a prueba la app "BANQUI" haciendo un testeo con la herramienta Maze, también testeo a usuarios que usaban los productos de la competencia y benchmarking de empresas locales y del exterior para conocer las principales funciones y enfoque del negocio,  así pudimos conocer el alcance y objetivos del negocio, los pain poitns que tenían los usuarios de "Banqui" y de otras empresas y sobretodo redefinir al user persona y trabajar sobre los resultados de la investigación para replantear las soluciones y llevarlo al rediseño de la app.
-
+En esta fase, investigamos sobre el mercado fintech, tuvimos una entrevista con el product owner, pusimos a prueba la app "BANQUI" haciendo un testeo con la herramienta Maze, también testeo a usuarios que usaban los productos de la competencia y benchmarking de empresas locales y del exterior para conocer las principales funciones, enfoque del negocio y sobretodo los pain poitns que tenían los usuarios de "Banqui" y de otras empresas. 
 
 ## Investigación del mercado
 
@@ -58,8 +50,6 @@ El mercado "FinTech" está creciendo año a año, en Latinoamérica México, Bra
 Los bancos tradicionales pierden terreno por varias razones, la primera, siempre han sido vistos como "los malos de la película", "nos cobran por todo" y "siempre quieren ganar más". Bajo esa premisa es fácil no tener fidelidad a la marca o a la empresa, segundo, el mercado FinTech está ocupando lugar entre los más ignorados por el sistema financiero, pymes, personas no bancarizadas y los jóvenes.
 
 En Perú, la situación no es distinta, ya existen 72 FinTech en el país, de las cuales el 30% se desarrolla en el sector de préstamos y el 25% en el sector de plataformas de pago.
-
-
 
 ## Entrevista con cliente 
 
