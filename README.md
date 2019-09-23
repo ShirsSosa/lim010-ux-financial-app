@@ -171,7 +171,17 @@ En el test de BANQUI, definimos una tarea y en base a ella identificamos las may
 
 # Ideación
 
+Tomando en cuenta las palabras del product owner sobre la cotidianidad y nuestro enfoque de desarrollar una app intuitiva, buscamos a las redes sociales que usa nuestro User persona, en este caso Instagram y por otro lado revisamos la app Money Lover que sirve para registrar ingresos y gastos y controlar el flujo de dinero.
 
+![enter image description here](https://lh3.googleusercontent.com/FZv1RZaGRB_Z4pHrewQ33HHawPptJPEAPjJWy0nyz1f7ORGfiQLMChmThc8IU6NMzvKZ51zvACG_)
+
+En este caso evaluamos cómo está distribuido el menú y el estilo gráfico de los íconos, como observamos no tiene títulos.
+
+
+
+![enter image description here](https://lh3.googleusercontent.com/lzdPxRsOFVi7pwm8GJozYx8aOCh63nMk-4Nb6BvmkyHE8Z0QBAiRuZ9nCtWoJNEUadmrK8uqy1A6)
+
+Money Lover lo que nos da es una vista entendible de los gastos que tenemos según la categoría, el uso de íconos para identificar cada transacción y hacer esta gestión más fácil y didáctica.
 
 
 # Prototipado & User testing
@@ -212,6 +222,16 @@ Por ejemplo en el caso de gastos pudimos analizar las vistas de Revoul, Albo y U
 También trabajamos un test de asociación de los íconos para redefinir el menú y que nuestros usuarios tengan la menor dificultad para asociar cada elemento con su función.
 
 ![ Test de asociación ](https://lh3.googleusercontent.com/GJ1Q8n8rW6lxZ1sRt3BqOxKO7bUV767RztR4jMnvrOzZw0I5VVSK0G4sVUYaUKkBBbh2gG66n1gc)
+
+Asimismo realizamos prueba de card sorting en dos modalidades: presencial y virtual.
+
+![enter image description here](https://lh3.googleusercontent.com/4h_q4pwSaYk4buIFB_9bxWN3uoOe3v-O-gVYcnLSXmsoYrGPhgxdK-ld_09BGtpbbDlajjMbCO_Q)
+
+![enter image description here](https://lh3.googleusercontent.com/dJUiO4M_GuMIPTNtiGtV2QZvrKvGZ0TpY7csCwLal9IOJkKJwvUoejxN6Q9OGLeYgrgD_EN4JU9o)
+
+
+
+
 
 Hicimos el test a 6 personas con las que pudimos evidenciar que lo más difícil de asociar era justamente el tema de gastos y control de gastos. Lo mismo que también en cuestión de funciones era complicado de entender. 
 
