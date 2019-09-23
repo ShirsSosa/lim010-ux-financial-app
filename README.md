@@ -225,7 +225,7 @@ Asimismo realizamos prueba de card sorting en dos modalidades: presencial y virt
 
 ![enter image description here](https://lh3.googleusercontent.com/4h_q4pwSaYk4buIFB_9bxWN3uoOe3v-O-gVYcnLSXmsoYrGPhgxdK-ld_09BGtpbbDlajjMbCO_Q)
 
-![enter image description here](https://lh3.googleusercontent.com/dJUiO4M_GuMIPTNtiGtV2QZvrKvGZ0TpY7csCwLal9IOJkKJwvUoejxN6Q9OGLeYgrgD_EN4JU9o)
+
 
 
 En la cual pudimos evidenciar la gran dificultad para asociar los ítems con respecto a "ahorros" y "operaciones". En base a este análisis decidimos hacer mejoras en el diseño enfocándonos en facilidad, personalización e intuitibidad.
@@ -262,10 +262,13 @@ En la cual pudimos evidenciar la gran dificultad para asociar los ítems con res
 ## Enlaces :pushpin:
 
  - [Carpeta en Google Drive](https://drive.google.com/drive/u/0/folders/1TQf-Dqj6wkiGaTsx4_02PMRtJpgW97mA)
- -  [Prototipo de Alta Fidelidad Diseño](https://www.figma.com/file/DVGGK6p2PHOy9tPxkLJSOL/BANQUI-Prototipo-Alta-Fidelidad?node-id=31:4738)
- -  [Prototipo de Alta Fidelidad Navegable](https://marvelapp.com/79e2651/screen/61632557)
+ - [Affinity maps](https://miro.com/app/board/o9J_kwufubM=/)
+ - [Prototipo de Alta Fidelidad Diseño](https://www.figma.com/file/DVGGK6p2PHOy9tPxkLJSOL/BANQUI-Prototipo-Alta-Fidelidad?node-id=31:4738)
+ - [Prototipo de Alta Fidelidad Navegable](https://marvelapp.com/79e2651/screen/61632557)
  
  ## Hacker edition :sparkles:
+ 
+ - [Google Sites](https://sites.google.com/view/rex-consulting-ux/somos-rex?authuser=0) 
  
  
 
