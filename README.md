@@ -177,6 +177,7 @@ En el test de BANQUI, definimos una tarea y en base a ella identificamos las may
 
 
 
+
 # Prototipado & User testing
 
 Con toda la información recabada, decidimos hacer un prototipo de baja fidelidad para probar ciertas hipótesis.
@@ -214,27 +215,31 @@ Por ejemplo en el caso de gastos pudimos analizar las vistas de Revoul, Albo y U
 
 También trabajamos un test de asociación de los íconos para redefinir el menú y que nuestros usuarios tengan la menor dificultad para asociar cada elemento con su función.
 
+![ Test de asociación ](https://lh3.googleusercontent.com/GJ1Q8n8rW6lxZ1sRt3BqOxKO7bUV767RztR4jMnvrOzZw0I5VVSK0G4sVUYaUKkBBbh2gG66n1gc)
 
-En base a este análisis decidimos hacer mejoras en el diseño enfocándonos en: facilidad, personalización e intuitibidad.
+Hicimos el test a 6 personas con las que pudimos evidenciar que lo más difícil de asociar era justamente el tema de gastos y control de gastos. Lo mismo que también en cuestión de funciones era complicado de entender. 
 
- 
- 
+En base a este análisis decidimos hacer mejoras en el diseño enfocándonos en facilidad, personalización e intuitibidad.
+
+  
  **Testing de Prototipo de Alta Fidelidad**
  
+ Realizamos un test de guerrilla a 6 personas a las que les indicamos las siguientes tareas a realizar:
  
- 
- 
- 
- 
+ - [ ] Ver el saldo
+ - [ ] Ver movimientos
+ - [ ] Ver detalle de movimiento de Uber
+ - [ ] Ingresar a ahorros y crear uno nuevo
+ - [ ] Activar la opción "guardián del ahorro"
+ - [ ] Ver el balance de gastos 
  
  
 **Hallazgos**
 
-
-
-
-
-
+ - Dificultad para ver el saldo.
+ - No entendieron el concepto de guardián del ahorro, pero cuando les explicabas, les parecía interesante.
+ - Mayor entendimiento del control de gastos y su gráfico, les pareció interesante para tener mayor control de su dinero.
+ - Sobre la sección de ahorros, les pareció importante para lograr sus objetivos.
 
 ## Prototipo de Alta Fidelidad 
 
@@ -243,9 +248,6 @@ En base a este análisis decidimos hacer mejoras en el diseño enfocándonos en:
 
 
 
-
-
-## Presentación final
 
 
 
