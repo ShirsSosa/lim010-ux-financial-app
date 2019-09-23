@@ -219,9 +219,13 @@ Por ejemplo en el caso de gastos pudimos analizar las vistas de Revoul, Albo y U
 
 ![enter image description here](https://lh3.googleusercontent.com/BkT3x4I_EXLurOXhuyFeAYD_7w_mXZV3TOt5dwwOrukCFeLnDG4H9iDCukM9Jhmof6lf9n7wDpnD)
 
-También trabajamos un test de asociación de los íconos para redefinir el menú y que nuestros usuarios tengan la menor dificultad para asociar cada elemento con su función.
+También trabajamos en un test de asociación de íconos para redefinir el menú y que nuestros usuarios tengan la menor dificultad para asociar cada elemento con su función. Realizamos el test a 6 personas con las que pudimos evidenciar que lo más difícil de asociar era justamente el tema de gastos y control de gastos. Lo mismo que también en cuestión de funciones era complicado de entender. 
+
 
 ![ Test de asociación ](https://lh3.googleusercontent.com/GJ1Q8n8rW6lxZ1sRt3BqOxKO7bUV767RztR4jMnvrOzZw0I5VVSK0G4sVUYaUKkBBbh2gG66n1gc)
+
+
+
 
 Asimismo realizamos prueba de card sorting en dos modalidades: presencial y virtual.
 
@@ -230,12 +234,7 @@ Asimismo realizamos prueba de card sorting en dos modalidades: presencial y virt
 ![enter image description here](https://lh3.googleusercontent.com/dJUiO4M_GuMIPTNtiGtV2QZvrKvGZ0TpY7csCwLal9IOJkKJwvUoejxN6Q9OGLeYgrgD_EN4JU9o)
 
 
-
-
-
-Hicimos el test a 6 personas con las que pudimos evidenciar que lo más difícil de asociar era justamente el tema de gastos y control de gastos. Lo mismo que también en cuestión de funciones era complicado de entender. 
-
-En base a este análisis decidimos hacer mejoras en el diseño enfocándonos en facilidad, personalización e intuitibidad.
+En la cual pudimos evidenciar la gran dificultad para asociar los ítems con respecto a "ahorros" y "operaciones". En base a este análisis decidimos hacer mejoras en el diseño enfocándonos en facilidad, personalización e intuitibidad.
 
   
  **Testing de Prototipo de Alta Fidelidad**
